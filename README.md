@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on financial services
 - 📫 How to reach me - Git
 - 😄 Pronouns: n/a
-- ⚡ Fun fact: I like to chef out for myself and my partner
+- ⚡ Fun fact: I run a fast marathon
 
 <!---
 Mand-o-Liver-theultimate/Mand-o-Liver-theultimate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
