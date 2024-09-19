@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mand-o-Liver-theultimate
+- 👋 Hi, I’m @Oliver-BX
 - 👀 I’m interested in embedded finance
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on financial services
